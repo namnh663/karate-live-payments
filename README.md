@@ -57,7 +57,3 @@ mvn clean test
 
 - [Maven](https://maven.apache.org/) - Dependency Management
 - [Karate](https://intuit.github.io/karate/) - Testing Framework for API Services
-
-## Authors
-
-- nam.nguyen@livepayments.com
