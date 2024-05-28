@@ -1,0 +1,8 @@
+image: maven:3.9.5
+
+pipelines:
+  default:
+    - step:
+        script:
+          - mvn --version
+          - mvn clean test -Dtest=LiveportalTest -DtesultsTarget="$TESULTS_TARGET_TOKEN"
