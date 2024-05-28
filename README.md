@@ -1,6 +1,6 @@
 # Karate Live Payments
 
-`karate-live-payments` is a Java-based application that leverages the power of the Karate framework to test api services.
+`live-karate` is a Java-based application that leverages the power of the Karate framework to test api services.
 
 ## Getting Started
 
