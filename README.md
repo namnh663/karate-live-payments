@@ -1,4 +1,4 @@
-# Karate Live Payments
+# Karate Live
 
 `live-karate` is a Java-based application that leverages the power of the Karate framework to test api services.
 
