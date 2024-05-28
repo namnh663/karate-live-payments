@@ -8,7 +8,7 @@ Feature:
   @ignore
   Scenario:
     Given path 'auth'
-    And header Authorization = 'basic ZHVvY3ZvdGVzdDpkdW9jZGVwdHJhaTA5MTAxOTkx'
+    And header Authorization = 'basic API_KEY'
     And header terminal-id = tid
     And header serial-number = tid
     And header app-code = app

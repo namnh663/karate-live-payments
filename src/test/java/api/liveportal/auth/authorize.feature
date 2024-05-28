@@ -18,7 +18,7 @@ Feature: Authorization for Live Debit Test
     And param realm = 'LiveDebit'
     And param login_ticket = login_ticket
     And param response_mode = 'web_message'
-    And param auth0Client = 'eyJuYW1lIjoibG9jay5qcyIsInZlcnNpb24iOiIxMS4zNS4xIiwiZW52Ijp7ImF1dGgwLmpzIjoiOS4yMi4xIn19'
+    And param auth0Client = 'KEY'
     When method get
     Then status 200
 
